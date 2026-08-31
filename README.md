@@ -1,5 +1,7 @@
 # Livinni Crochet Store 👜✨
 
+https://livinni-crochet-store.vercel.app/
+
 A modern and responsive landing page for a handmade crochet store, designed to showcase products with an elegant and minimalist style.
 
 The project was developed using only **HTML5 and CSS3**, focusing on clean structure, responsive design, and a premium shopping experience.
