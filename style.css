@@ -8,6 +8,7 @@ body{
     margin: auto;
     box-sizing: border-box;
     padding: 0 16px;
+    overflow-x: hidden;
 }
 .painel1{
     display: flex;
